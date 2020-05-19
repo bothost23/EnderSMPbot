@@ -1,0 +1,2 @@
+# EnderSMPbot
+bot
